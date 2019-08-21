@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "rg" {
-    name     = "SampleTestGroup"
+    name     = "SampleGroup"
     location = "eastus"
 }
